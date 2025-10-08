@@ -15,7 +15,8 @@ A simple index of my course repositories, organized by course.
 
 Repos:
 - [SpikeMobileAppViews](https://github.com/Miss4Chan/SpikeMobileAppViews) — demo mobile app repository (mobile dev).
-- [SpikeAppCompose](https://github.com/Miss4Chan/SpikeMobileAppCompose) - the first demo reworked with compose instead of views 
+- [SpikeAppCompose](https://github.com/Miss4Chan/SpikeMobileAppCompose) - the first demo reworked with compose instead of views
+- [LightIOSStoryboard](https://github.com/Miss4Chan/LightIOSStoryboard) - first IOS storyboard exercise
 
 ---
 
