@@ -18,6 +18,9 @@ Repos:
 - [SpikeAppCompose](https://github.com/Miss4Chan/SpikeMobileAppCompose) - the first demo reworked with compose instead of views
 - [LightIOSStoryboard](https://github.com/Miss4Chan/LightIOSStoryboard) - first IOS storyboard exercise
 
+Individual project repo:
+- [Kairos](https://github.com/Miss4Chan/Kairos) - gamified todo/reminder app
+
 ---
 
 ## Interfaces for Ubiquitous Environments — 2030_D_15548_S1   
